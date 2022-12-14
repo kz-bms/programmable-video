@@ -16,7 +16,7 @@ dependencies:
   enum_to_string: ^2.0.1
   twilio_programmable_video_platform_interface:
     git:
-      url: https://github.com/KeyZane/programmable-video-platform-interface.git
+      url: https://github.com/kz-bms/programmable-video-platform-interface.git
   collection: ^1.15.0
 
 dev_dependencies:
